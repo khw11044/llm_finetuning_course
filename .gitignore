@@ -1,0 +1,6 @@
+.unsloth_compiled_cache
+.AeiROBOT
+.llama.cpp
+.vscode/
+__pycache__/
+.outputs
